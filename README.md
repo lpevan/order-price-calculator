@@ -163,8 +163,3 @@ The application uses:
 - Pydantic for data validation
 - PostgreSQL for data storage
 
-## Testing
-
-To run tests (once implemented):
-```bash
-pytest
